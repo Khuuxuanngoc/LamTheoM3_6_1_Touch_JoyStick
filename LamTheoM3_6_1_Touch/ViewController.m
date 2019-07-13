@@ -67,7 +67,6 @@
 //    [self setUpTimerSendControl_API];
 //    [self setUpWebViewCommand];
     
-    [self setUpVideo];
 //    NSLog(@" powf (4,2): %f", powf(4,2));
     DB_VIEWCONTROLLER_PRINT(@"");
     AudioServicesPlaySystemSound(kSystemSoundID_Vibrate);

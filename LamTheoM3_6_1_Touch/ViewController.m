@@ -9,8 +9,6 @@
 #import "ViewController.h"
 #import <AudioToolbox/AudioToolbox.h>
 
-
-
 #define EN_DEBUG_VIEWCONTROLLER_VIEW_KXN
 
 #ifdef EN_DEBUG_VIEWCONTROLLER_VIEW_KXN
